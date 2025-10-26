@@ -26,7 +26,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ```sql
 CREATE DATABASE libmanagementsys;
-
+USE libmanagementsys;
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch
 (
